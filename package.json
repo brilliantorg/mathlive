@@ -112,7 +112,7 @@
     "typescript": "^4.4.2"
   },
   "dependencies": {
-    "@cortex-js/compute-engine": "github:brilliantorg/compute-engine#treat-d-as-variable"
+    "@cortex-js/compute-engine": "^0.4.2"
   },
   "keywords": [
     "math",
